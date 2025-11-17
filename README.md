@@ -1,5 +1,5 @@
-# Simple-Regression-Template-Python
-A simple template to apply regression (linear, polynomial, logistic, svm, decision tree, and random forests) on a given data set in a specific structure.
+# Machine-Learning-Algorithm-Templates-Python
+A simple template to apply regression (linear, polynomial, logistic, svm, decision tree, and random forests), classification and other ML-algorithms on a given data set in a specific structure.
 
 The quality of fit is expressed with the R^2 score (regression) and/or the confusion matrix (classification).
 
